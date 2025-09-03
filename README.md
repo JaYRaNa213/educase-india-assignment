@@ -22,6 +22,9 @@ This app is built with **React**, **React Router**, and **TailwindCSS**, providi
 ---
 
 ## 📂 Project Structure
+## 📂 Project Structure
+
+```plaintext
 educase_india/
 ├── src/
 │   ├── components/
@@ -37,6 +40,7 @@ educase_india/
 ├── public/
 ├── package.json
 └── README.md
+
 
 
 yaml
